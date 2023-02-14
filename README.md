@@ -1,0 +1,1 @@
+This is my First attempt at developing a Tic Tac Toe game using HTML,CSS,Bootstrap and JS. While developing this game I explored various Bootstrap classes and DOM elements. This might not be a best way to design this game and there could be a beter and efficient way. But I am proud to share this version as my first attempt towards building a game using this stack.
