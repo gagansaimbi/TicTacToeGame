@@ -80,9 +80,9 @@ function announce(){
         document.getElementById("t1_3").innerText=='O'
         ){
         
-        c1_1.style.backgroundColor = "green"
-        c1_2.style.backgroundColor = "green"
-        c1_3.style.backgroundColor = "green"
+        c1_1.style.backgroundColor = "#b5e7a0"
+        c1_2.style.backgroundColor = "#b5e7a0"
+        c1_3.style.backgroundColor = "#b5e7a0"
         win = true
         setTimeout(() => {
             alert("Player-1 wins")
@@ -96,9 +96,9 @@ function announce(){
             document.getElementById("t2_3").innerText=='O'
             ){
            
-        c2_1.style.backgroundColor = "green"
-        c2_2.style.backgroundColor = "green"
-        c2_3.style.backgroundColor = "green"
+        c2_1.style.backgroundColor = "#b5e7a0"
+        c2_2.style.backgroundColor = "#b5e7a0"
+        c2_3.style.backgroundColor = "#b5e7a0"
         win = true
         setTimeout(() => {
             alert("Player-1 wins")
@@ -112,9 +112,9 @@ function announce(){
             document.getElementById("t3_3").innerText=='O'
             ){
             
-            c3_1.style.backgroundColor = "green"
-        c3_2.style.backgroundColor = "green"
-        c3_3.style.backgroundColor = "green"
+            c3_1.style.backgroundColor = "#b5e7a0"
+        c3_2.style.backgroundColor = "#b5e7a0"
+        c3_3.style.backgroundColor = "#b5e7a0"
         win = true
         setTimeout(() => {
             alert("Player-1 wins")
@@ -127,9 +127,9 @@ function announce(){
             document.getElementById("t3_1").innerText=='O'
             ){
             
-            c1_1.style.backgroundColor = "green"
-        c2_1.style.backgroundColor = "green"
-        c3_1.style.backgroundColor = "green"
+            c1_1.style.backgroundColor = "#b5e7a0"
+        c2_1.style.backgroundColor = "#b5e7a0"
+        c3_1.style.backgroundColor = "#b5e7a0"
         win = true
         setTimeout(() => {
             alert("Player-1 wins")
@@ -142,9 +142,9 @@ function announce(){
             document.getElementById("t3_2").innerText=='O'
             ){
             
-            c1_2.style.backgroundColor = "green"
-        c2_2.style.backgroundColor = "green"
-        c3_2.style.backgroundColor = "green"
+            c1_2.style.backgroundColor = "#b5e7a0"
+        c2_2.style.backgroundColor = "#b5e7a0"
+        c3_2.style.backgroundColor = "#b5e7a0"
         win = true
         setTimeout(() => {
             alert("Player-1 wins")
@@ -157,9 +157,9 @@ function announce(){
             document.getElementById("t3_3").innerText=='O'
             ){
             
-            c1_3.style.backgroundColor = "green"
-        c2_3.style.backgroundColor = "green"
-        c3_3.style.backgroundColor = "green"
+            c1_3.style.backgroundColor = "#b5e7a0"
+        c2_3.style.backgroundColor = "#b5e7a0"
+        c3_3.style.backgroundColor = "#b5e7a0"
         win = true
         setTimeout(() => {
             alert("Player-1 wins")
@@ -172,9 +172,9 @@ function announce(){
             document.getElementById("t3_3").innerText=='O'
             ){
            
-            c1_1.style.backgroundColor = "green"
-        c2_2.style.backgroundColor = "green"
-        c3_3.style.backgroundColor = "green"
+            c1_1.style.backgroundColor = "#b5e7a0"
+        c2_2.style.backgroundColor = "#b5e7a0"
+        c3_3.style.backgroundColor = "#b5e7a0"
         win = true
         setTimeout(() => {
             alert("Player-1 wins")
@@ -187,9 +187,9 @@ function announce(){
             document.getElementById("t3_1").innerText=='O'
             ){
             
-            c1_3.style.backgroundColor = "green"
-        c2_2.style.backgroundColor = "green"
-        c3_1.style.backgroundColor = "green"
+            c1_3.style.backgroundColor = "#b5e7a0"
+        c2_2.style.backgroundColor = "#b5e7a0"
+        c3_1.style.backgroundColor = "#b5e7a0"
         win = true
         setTimeout(() => {
             alert("Player-1 wins")
@@ -205,9 +205,9 @@ function announce(){
     document.getElementById("t1_3").innerText=='X'
     ){
     
-    c1_1.style.backgroundColor = "green"
-    c1_2.style.backgroundColor = "green"
-    c1_3.style.backgroundColor = "green"
+    c1_1.style.backgroundColor = "#b5e7a0"
+    c1_2.style.backgroundColor = "#b5e7a0"
+    c1_3.style.backgroundColor = "#b5e7a0"
     win = true
     setTimeout(() => {
         alert("Player-2 wins")
@@ -221,9 +221,9 @@ else if(document.getElementById("t2_1").innerText=='X'
         document.getElementById("t2_3").innerText=='X'
         ){
         
-    c2_1.style.backgroundColor = "green"
-    c2_2.style.backgroundColor = "green"
-    c2_3.style.backgroundColor = "green"
+    c2_1.style.backgroundColor = "#b5e7a0"
+    c2_2.style.backgroundColor = "#b5e7a0"
+    c2_3.style.backgroundColor = "#b5e7a0"
     win = true
     setTimeout(() => {
         alert("Player-2 wins")
@@ -236,9 +236,9 @@ else if(document.getElementById("t3_1").innerText=='X'
         document.getElementById("t3_3").innerText=='X'
         ){
         
-        c3_1.style.backgroundColor = "green"
-    c3_2.style.backgroundColor = "green"
-    c3_3.style.backgroundColor = "green"
+        c3_1.style.backgroundColor = "#b5e7a0"
+    c3_2.style.backgroundColor = "#b5e7a0"
+    c3_3.style.backgroundColor = "#b5e7a0"
     win = true
     setTimeout(() => {
         alert("Player-2 wins")
@@ -251,9 +251,9 @@ else if(document.getElementById("t1_1").innerText=='X'
         document.getElementById("t3_1").innerText=='X'
         ){
         
-        c1_1.style.backgroundColor = "green"
-    c2_1.style.backgroundColor = "green"
-    c3_1.style.backgroundColor = "green"
+        c1_1.style.backgroundColor = "#b5e7a0"
+    c2_1.style.backgroundColor = "#b5e7a0"
+    c3_1.style.backgroundColor = "#b5e7a0"
     win = true
     setTimeout(() => {
         alert("Player-2 wins")
@@ -266,9 +266,9 @@ else if(document.getElementById("t1_2").innerText=='X'
         document.getElementById("t3_2").innerText=='X'
         ){
        
-        c1_2.style.backgroundColor = "green"
-    c2_2.style.backgroundColor = "green"
-    c3_2.style.backgroundColor = "green"
+        c1_2.style.backgroundColor = "#b5e7a0"
+    c2_2.style.backgroundColor = "#b5e7a0"
+    c3_2.style.backgroundColor = "#b5e7a0"
     win = true
     setTimeout(() => {
         alert("Player-2 wins")
@@ -281,9 +281,9 @@ else if(document.getElementById("t1_3").innerText=='X'
         document.getElementById("t3_3").innerText=='X'
         ){
         
-        c1_3.style.backgroundColor = "green"
-    c2_3.style.backgroundColor = "green"
-    c3_3.style.backgroundColor = "green"
+        c1_3.style.backgroundColor = "#b5e7a0"
+    c2_3.style.backgroundColor = "#b5e7a0"
+    c3_3.style.backgroundColor = "#b5e7a0"
     win = true
     setTimeout(() => {
         alert("Player-2 wins")
@@ -296,9 +296,9 @@ else if(document.getElementById("t1_1").innerText=='X'
         document.getElementById("t3_3").innerText=='X'
         ){
         
-        c1_1.style.backgroundColor = "green"
-    c2_2.style.backgroundColor = "green"
-    c3_3.style.backgroundColor = "green"
+        c1_1.style.backgroundColor = "#b5e7a0"
+    c2_2.style.backgroundColor = "#b5e7a0"
+    c3_3.style.backgroundColor = "#b5e7a0"
     win = true
     setTimeout(() => {
         alert("Player-2 wins")
@@ -311,9 +311,9 @@ else if(document.getElementById("t1_3").innerText=='X'
         document.getElementById("t3_1").innerText=='X'
         ){
        
-        c1_3.style.backgroundColor = "green"
-    c2_2.style.backgroundColor = "green"
-    c3_1.style.backgroundColor = "green"
+        c1_3.style.backgroundColor = "#b5e7a0"
+    c2_2.style.backgroundColor = "#b5e7a0"
+    c3_1.style.backgroundColor = "#b5e7a0"
     win = true
     setTimeout(() => {
         alert("Player-2 wins")
