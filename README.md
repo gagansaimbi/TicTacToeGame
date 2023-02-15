@@ -5,13 +5,13 @@ This repository is created particularly for hosting the website on GIT pages. Pr
 
 Release History:
 
-v3.0-
+v3.0- (15/02/2023)
 	Introduced Dark mode to the webpage.
 	Bug fixes
 	
-v2.0-
+v2.0- (14/02/2023)
 	Bug fixes where the alert popped before displaying the result on board.
-  Developer contact hyperlink was not working. Fixed.
+  	Developer contact info hyperlink was not working. Fixed.
 
-v1.0-
+v1.0- (13/02/2023)
 	Tic-Tac-Go game first version.
