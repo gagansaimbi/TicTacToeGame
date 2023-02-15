@@ -5,6 +5,9 @@ This repository is created particularly for hosting the website on GIT pages. Pr
 
 Release History:
 
+v3.1- (15/02/2023)
+	Replaced Dark Mode/Light mode toggle button(text) with images for better UI experience.
+
 v3.0- (15/02/2023)
 	Introduced Dark mode to the webpage.
 	Bug fixes
