@@ -5,12 +5,10 @@ h1{
 }
 
 table.table-bordered {
-  
   width: 300px;
   height: 150px;
   margin: 0 auto;
   border: 1px black solid;
-  
 }
 
 h5,p {
@@ -18,6 +16,7 @@ h5,p {
   margin: auto;
   text-align: center;
 }
+
 table {
   border-collapse: collapse;
   margin: auto;
@@ -27,16 +26,28 @@ table {
 .rows{
   text-align: center;
   font-size: 50px;
-
 }
 
 td {
-  border: 3px black solid;
   width: 100px;
   height: 100px;
-  
 }
 
 .page-footer{
   font-size: xx-small;
+}
+
+#restart{
+  background-color: #E8E45F;
+}
+
+#start{
+  background-color: #405d27;
+}
+
+#toggle_switch{
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 10px;
 }
