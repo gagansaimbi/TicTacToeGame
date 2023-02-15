@@ -50,4 +50,16 @@ td {
   top: 0;
   right: 0;
   margin: 10px;
+  padding: 0;
+  border: none;
+  background: none;
+  
+}
+
+img{
+  border-radius: 10px;
+  height: 40px;
+  width: 40px;
+  
+  
 }

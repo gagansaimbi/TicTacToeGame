@@ -12,23 +12,30 @@ function mode(){/// To change the value of the data-bs-theme attribute(Light/Dar
 
         body.setAttribute('data-bs-theme', 'light')
         currentTheme == 'light'
+        document.getElementById("image_for_mode").src = "dark_mode.png"
+
+        /*  //Old code(v3.0) for toggle button replace with images for better UI experience
+
         var change = document.getElementById("toggle_switch")
         change.classList.replace('btn-light','btn-dark')
         change.innerText = 'Dark Mode'
-
-        
+        */
         var tableColor = document.querySelector('table.table-bordered')
         tableColor.style.borderColor  = "black"//changing table color to black in light mode
+        
 
     } else   {
 
         body.setAttribute('data-bs-theme', 'dark')
         currentTheme == 'dark'
+        document.getElementById("image_for_mode").src = "light_mode.png"
+
+        /*  //Old code(v3.0) for toggle button replace with images for better UI experience
+
         var change = document.getElementById("toggle_switch")
-        
         change.classList.replace('btn-dark','btn-light')
         change.innerText = 'Light Mode'
-
+        */
         var tableColor = document.querySelector('table.table-bordered')
         tableColor.style.borderColor  = "white"//changing table color to white in dark mode
 
